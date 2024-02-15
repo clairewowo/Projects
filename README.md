@@ -1,0 +1,1 @@
+Over the course of a month last year, I analyzed my sleep quality and factors that might have affected it, such as when I went to sleep, when I woke up, if I went on a run that day, etc. The goal of my code is to see which factors affect sleep the most, using linear regression and permutation tests. 
